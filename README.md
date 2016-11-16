@@ -1,4 +1,4 @@
-meh!
+maybe not?
 
 # LabE
 Stacks and Queues
